@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "65e60fbde6b009a9f0f09d89"
+  },
+  "id": 60,
+  "user_id": "1",
+  "question_id": 4,
+  "user_answer": "no"
+},
+{
+  "_id": {
+    "$oid": "65e6100ce6b009a9f0f09d8b"
+  },
+  "id": 62,
+  "user_id": "5",
+  "question_id": 6,
+  "user_answer": "lotus"
+},
+{
+  "_id": {
+    "$oid": "65e6133132bd1fb9294750db"
+  },
+  "id": 63,
+  "user_id": "5",
+  "question_id": 6,
+  "user_answer": "lotus"
+},
+{
+  "_id": {
+    "$oid": "65e6133f32bd1fb9294750dc"
+  },
+  "id": 64,
+  "user_id": "5",
+  "question_id": 7,
+  "user_answer": "lotus"
+},
+{
+  "_id": {
+    "$oid": "65e61b15673d500e288d514a"
+  },
+  "id": 69,
+  "user_id": "5",
+  "question_id": 9,
+  "user_answer": "lotus"
+},
+{
+  "_id": {
+    "$oid": "65e61b1c673d500e288d514b"
+  },
+  "id": 70,
+  "user_id": "5",
+  "question_id": 9,
+  "user_answer": "lotus"
+},
+{
+  "_id": {
+    "$oid": "65e61b665a64985ba5247d85"
+  },
+  "id": 71,
+  "user_id": "1",
+  "question_id": 2,
+  "user_answer": "yes"
+},
+{
+  "_id": {
+    "$oid": "65e61bdfb6459aafc3a930d1"
+  },
+  "id": 72,
+  "user_id": "1",
+  "question_id": 2,
+  "user_answer": "yes"
+},
+{
+  "_id": {
+    "$oid": "65e61c1ba0b633ccfe348adb"
+  },
+  "id": 73,
+  "user_id": "1",
+  "question_id": 2,
+  "user_answer": "yes"
+},
+{
+  "_id": {
+    "$oid": "65e61e698009e912ad5e5d68"
+  },
+  "id": 74,
+  "user_id": "1",
+  "question_id": 2,
+  "user_answer": "yes"
+},
+{
+  "_id": {
+    "$oid": "65e6f2954d8747c21d4528ff"
+  },
+  "id": 76,
+  "user_id": "7",
+  "question_id": 10,
+  "user_answer": null
+},
+{
+  "_id": {
+    "$oid": "65e6f2e64d8747c21d452900"
+  },
+  "id": 77,
+  "user_id": "7",
+  "question_id": 9,
+  "user_answer": "jgftg"
+},
+{
+  "_id": {
+    "$oid": "65e6f4074d8747c21d452901"
+  },
+  "id": 78,
+  "user_id": "7",
+  "question_id": 9,
+  "user_answer": "hdhd"
+},
+{
+  "_id": {
+    "$oid": "65e6f4274d8747c21d452902"
+  },
+  "id": 79,
+  "user_id": "7",
+  "question_id": 3,
+  "user_answer": "peacock"
+},
+{
+  "_id": {
+    "$oid": "65e6f4654d8747c21d452903"
+  },
+  "id": 80,
+  "user_id": "7",
+  "question_id": 2,
+  "user_answer": "no"
+}]

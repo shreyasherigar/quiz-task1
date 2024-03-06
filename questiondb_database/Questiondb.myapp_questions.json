@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65e456f29b046680f3883f70"
+  },
+  "id": 1,
+  "question": "What is India's national bird?",
+  "answer": "peacock"
+},
+{
+  "_id": {
+    "$oid": "65e457339b046680f3883f71"
+  },
+  "id": 2,
+  "question": "Do you play sports?",
+  "answer": "yes"
+},
+{
+  "_id": {
+    "$oid": "65e457559b046680f3883f72"
+  },
+  "id": 3,
+  "question": "What is the capital city of India?",
+  "answer": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "65e4577c9b046680f3883f73"
+  },
+  "id": 4,
+  "question": "RBI Full Form is Reserve Bank of India (yes or no)",
+  "answer": "yes"
+},
+{
+  "_id": {
+    "$oid": "65e457b69b046680f3883f74"
+  },
+  "id": 5,
+  "question": "What is India's national animal?",
+  "answer": "tiger"
+},
+{
+  "_id": {
+    "$oid": "65e457ce9b046680f3883f75"
+  },
+  "id": 6,
+  "question": "What is India's national flower?",
+  "answer": "Lotus"
+},
+{
+  "_id": {
+    "$oid": "65e458539b046680f3883f76"
+  },
+  "id": 7,
+  "question": "The headquarters of ISRO is in Bengaluru? (yes or no)",
+  "answer": "yes"
+},
+{
+  "_id": {
+    "$oid": "65e458829b046680f3883f77"
+  },
+  "id": 8,
+  "question": "What is India national tree?",
+  "answer": "Banyan tree"
+},
+{
+  "_id": {
+    "$oid": "65e458ae9b046680f3883f78"
+  },
+  "id": 9,
+  "question": "What is Pakistan's national animal?",
+  "answer": "Markhor"
+},
+{
+  "_id": {
+    "$oid": "65e459449b046680f3883f79"
+  },
+  "id": 10,
+  "question": "Can you lift a mountain? (yes or no)",
+  "answer": "no"
+}]
