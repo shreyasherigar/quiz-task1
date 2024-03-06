@@ -86,13 +86,9 @@ class AnswerAPI(APIView):
                 return Response({'error': 'already attempted 5 questions'}, status=400)
             else:
                 user_response.save()
-                if user_answer.lower() == correct_answer.lower(): 
-                    
+                if user_answer.lower() == correct_answer.lower():     
                     return Response({"message": "Correct answer", "attempts": user_responses_count},status=status.HTTP_200_OK)
                 else:
                     return Response({"message": "Incorrect answer.", "attempts": user_responses_count},status=status.HTTP_200_OK)      
-            
         except questions.DoesNotExist:
             return Response({"message": "Question not found"}, status=404)
-
-
